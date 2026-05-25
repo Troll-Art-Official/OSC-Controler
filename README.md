@@ -2,7 +2,7 @@
 
 Use any kind of tech with a screen to control your DAW.\
 OSC controller are connectable to all major music production programms *(DAWs)* , including Ableton, FL Studio and Bitwig Studio.\
-Open Stage Version used: 1.30.2.
+Open Stage Version used: 1.30.2
 
 ### Guide:
 To use this controller you need OpenStageControl and a midi port emulator *(I personally recommend loopMidi, its free and i tested this controler with loopMidi)* on the computer where your DAW is installed.\
